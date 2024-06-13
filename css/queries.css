@@ -1,0 +1,260 @@
+/* Small scren and Laptop screens max of 1024px */
+@media all and (max-width:1024px) {
+    .box-container{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+}
+
+/* Tablets and Ipads of 768px */
+@media all and (max-width:768px) {
+ 
+    .box-container{
+        flex-wrap: wrap;
+    }
+    .mid-field{
+        flex-wrap: wrap;
+    }
+
+    /* section first- product context details through flex */
+    .collective-container{
+        flex-wrap: wrap;
+    }
+
+    /* Information section-(Main) - contains oonly text's  */
+    .information-section{
+        flex-wrap: wrap;
+        object-fit: cover;
+    }
+
+    /* section info-content section */
+    /* .secound-info-content-section{
+
+    } */
+
+    /* section first- product context details through flex */
+    .secound-flex-gallery{
+        flex-wrap: wrap;
+    }
+
+    .common-button-title{
+        flex-wrap: wrap;
+    }
+
+    .secound-flex-common-class{
+        display: flex;
+        flex-wrap: wrap;
+        object-fit: cover;
+    }
+   
+    /* Third info content section */
+    /* .third-info-content-section{
+
+    } */
+
+    .third-info-content-section h2{
+        font-size: 1.2em;
+    }
+
+    /* Third flex-gallery section  */
+    .third-flex-container{
+        flex-wrap: wrap;
+    }
+
+    /* .third-flex-common-childclass{
+
+    } */
+
+    .fourth-info-content-section{
+        width: auto;
+        margin-top: auto;
+    }
+
+    /* Fourth info content section  */
+    .fourth-info-content-section h2{
+        font-size: 1.2em;
+    }
+
+    /* Fourth flex-gallery section */
+    .fourth-flex-container{
+        flex-wrap: wrap;
+    }
+
+    /* Fivth flex-gallery section */
+    .fivth-flex-container{
+        flex-wrap: wrap;
+    }
+    .fivth-first-flex-box{
+        flex-wrap: wrap;
+    }
+
+    /* Fivth flex secound flex box 2 - Start */
+    .fivth-flex-container-2{
+        flex-wrap: wrap;
+    }
+    .fivth-first-flex-box-2{
+        flex-wrap: wrap;
+    }
+
+    /* Fivth flex third flex box 3 - Start */
+    .fivth-flex-container-3{
+        flex-wrap: wrap;
+    }
+    .fivth-first-flex-box-3{
+        flex-wrap: wrap;
+    }
+
+    /* Fivth section button transition - Start */
+    .fivth-section-button-transition{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
+    }
+
+    /* Sixth grid-gallery section - Start */
+    .main-grid-section{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
+        grid-template-rows: repeat(2,100px);
+    }
+
+    /* Eight footer grid - Start */
+    .footer-grid-main-box{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100px,2fr,1fr));
+        grid-template-rows: repeat(1,100px);
+    }
+
+    /* Ninth footer felx content - Start */
+    .secound-footer-flex-mainbox{
+        flex-wrap: wrap;
+    }
+}
+
+/* Mobile devices - 480px */
+@media all and (max-width:480px) {
+
+    .box-container{
+        display: none;
+    }
+    .mobile-header-container{
+        display: block;
+    }
+
+    /* section first- product context details through flex */
+    .collective-container{
+        flex-wrap: wrap;
+    }
+
+     /* Information section-(Main) - contains oonly text's  */
+
+    .information-section{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .video-container video{
+        object-fit: cover;
+        flex-wrap: wrap;
+    }
+
+    /* section info-content section */
+    /* .secound-info-content-section{
+    } */
+
+    /* section first- product context details through flex */
+    .secound-flex-gallery{
+        flex-wrap: wrap;
+    }
+
+    .common-button-title{
+        flex-wrap: wrap;
+    }
+
+    .secound-flex-common-class{
+        display: flex;
+        flex-wrap: wrap;
+        object-fit: cover;
+    }
+
+     /* Third info content section */
+    /* .third-info-content-section{
+
+    } */
+    .third-info-content-section h2{
+        font-size: 1em;
+    }
+
+    /* Third flex-gallery section  */
+    .third-flex-container{
+        flex-wrap: wrap;
+    }
+
+    /* .third-flex-common-childclass{
+
+    } */
+
+    .fourth-info-content-section{
+        width: auto;
+        margin-top: auto;
+    }
+
+    /* Fourth info content section  */
+    .fourth-info-content-section h2{
+        font-size: 1em;
+    }
+
+    /* Fourth flex-gallery section */
+    .fourth-flex-container{
+        flex-wrap: wrap;
+    }
+
+    /* Fivth flex-gallery section */
+    .fivth-flex-container{
+        flex-wrap: wrap;
+    }
+    .fivth-first-flex-box{
+        flex-wrap: wrap;
+    }
+
+    /* Fivth flex secound flex box 2 - Start */
+    .fivth-flex-container-2{
+        flex-wrap: wrap;
+    }
+    .fivth-first-flex-box-2{
+        flex-wrap: wrap;
+    }
+
+    /* Fivth flex third flex box 3 - Start */
+    .fivth-flex-container-3{
+        flex-wrap: wrap;
+    }
+    .fivth-first-flex-box-3{
+        flex-wrap: wrap;
+    }
+
+    /* Fivth section button transition - Start */
+    .fivth-section-button-transition{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
+    }
+
+    /* Sixth grid-gallery section - Start */
+    .main-grid-section{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
+        grid-template-rows: repeat(2,100px);
+    }
+
+    /* Eight footer grid - Start */
+    .footer-grid-main-box{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100px,2fr,1fr));
+        grid-template-rows: repeat(1,100px);
+    }
+
+    /* Ninth footer felx content - Start */
+    .secound-footer-flex-mainbox{
+        flex-wrap: wrap;
+    }
+}
