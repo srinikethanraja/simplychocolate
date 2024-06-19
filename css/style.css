@@ -11,6 +11,14 @@
     justify-content: space-between;
     overflow: hidden;
 }
+
+.box-container div:hover{
+    color: black;
+}
+.box-container div:hover{
+    background-color: white;
+}
+
 .box-container:hover{
     background-color: rgba(0, 0, 0, 0);
 }
