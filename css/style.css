@@ -12,7 +12,7 @@
     overflow: hidden;
 }
 
-.box-container div:hover{
+.box-container .mid-field div:hover{
     color: black;
 }
 .box-container div:hover{
