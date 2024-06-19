@@ -290,6 +290,7 @@ h3{
 .image-flex{
     width: 450px;
     height: 450px;
+    size: 200px;
 }
 .common-button-title{
     position: absolute;
