@@ -12,9 +12,8 @@
     overflow: hidden;
 }
 
-.box-container.common-class:hover{
+.box-container & .mid-field div:hover{
     color: black;
-    background-color: white;
 }
 .box-container div:hover{
     background-color: white;
