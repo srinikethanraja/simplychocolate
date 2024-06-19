@@ -292,11 +292,16 @@ h3{
     height: 400px;
 }
 
-.common-button-title{
-    position: absolute;
+/* .common-button-title{ */
+    /* position: absolute;
     top: 80%;
-    left: 20px;
+    left: 20px; */
     /* margin-left: 10%; */
+/* } */
+
+.secound-flex-common-class{
+    position: absolute;
+
 }
 
 
