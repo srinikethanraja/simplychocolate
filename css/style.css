@@ -766,7 +766,7 @@ h3{
 .ptag-box{
     border-color:white;
     border:solid;
-    padding: 10px 5px;
+    /* padding: 10px 5px; */
     width: 180px;
     cursor: pointer;
 }
