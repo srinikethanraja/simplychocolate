@@ -287,11 +287,6 @@ h3{
     flex-grow: calc(1);
 }
 
-.secound-flex-common-class{
-    position: absolute;
-    top: 80%;
-}
-
 .image-flex{
     width: 400px;
     height: 400px;
@@ -300,7 +295,7 @@ h3{
 .common-button-title{
     position: absolute;
     top: 80%;
-    /* margin-left: 10%;
+    /* margin-left: 10%; */
 }
 
 
