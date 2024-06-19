@@ -295,6 +295,7 @@ h3{
 .common-button-title{
     position: absolute;
     top: 80%;
+    left: 20px;
     /* margin-left: 10%; */
 }
 
