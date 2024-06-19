@@ -17,6 +17,7 @@
 }
 .box-container div:hover{
     background-color: white;
+    color: black;
 }
 
 .box-container:hover{
