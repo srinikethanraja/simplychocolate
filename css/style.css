@@ -286,10 +286,15 @@ h3{
     margin-top: 5%;
     flex-grow: calc(1);
 }
+
+.image-flex{
+    width: 450px;
+    height: 450px;
+}
 .common-button-title{
     position: absolute;
     top: 80%;
-    margin-left: 10%;
+    /* margin-left: 10%; */
 }
 .common-button-title div{
     padding: 10px 5px;
