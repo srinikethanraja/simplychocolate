@@ -115,14 +115,14 @@
     .main-grid-section{
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
-        grid-template-rows: repeat(2,100px);
+        /* grid-template-rows: repeat(2,100px); */
     }
 
     /* Eight footer grid - Start */
     .footer-grid-main-box{
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(100px,2fr,1fr));
-        grid-template-rows: repeat(1,100px);
+        /* grid-template-rows: repeat(1,100px); */
     }
 
     /* Ninth footer felx content - Start */
@@ -243,14 +243,14 @@
     .main-grid-section{
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
-        grid-template-rows: repeat(2,100px);
+        /* grid-template-rows: repeat(2,100px); */
     }
 
     /* Eight footer grid - Start */
     .footer-grid-main-box{
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(100px,2fr,1fr));
-        grid-template-rows: repeat(1,100px);
+        /* grid-template-rows: repeat(1,100px); */
     }
 
     /* Ninth footer felx content - Start */
