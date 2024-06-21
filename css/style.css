@@ -28,8 +28,15 @@
 }
 
 .shop-item:hover{
-    font-size: 3rem;
+    font-size: 2rem;
+    scale: 1.0rem;
 }
+
+.gift-item:hover{
+    font-size: 2rem;
+    scale: 1.0rem;
+}
+
 .common-class{
     color: hsl(0, 2%, 88%);
     padding: 20px;
