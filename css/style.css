@@ -23,6 +23,13 @@
 .box-container:hover{
     background-color: rgba(0, 0, 0, 0);
 }
+.box-container:hover .common-class{
+    color: #000;
+}
+
+.shop-item:hover{
+    font-size: 3rem;
+}
 .common-class{
     color: hsl(0, 2%, 88%);
     padding: 20px;
@@ -288,13 +295,18 @@ h3{
 }
 
 .image-flex{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
+}
+
+.secound-flex-common-class{
+    position: relative;
 }
 
 .common-button-title{
     position: absolute;
     top: 80%;
+    left: 25%;
     /* margin-left: 10%; */
 }
 
@@ -770,6 +782,11 @@ h3{
     width: 180px;
     cursor: pointer;
 }
+
+.footer-ul-list{
+    padding: 0px;
+}
+
 
 /* Eight footer grid - End */
 
