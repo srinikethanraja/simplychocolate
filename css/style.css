@@ -242,6 +242,7 @@ h3{
 }
 .information-section a{
     color: black;
+    padding-bottom: 5px;
 }
 .information-section p{
     padding-bottom: 20px;
