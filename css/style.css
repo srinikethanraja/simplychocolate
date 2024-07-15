@@ -28,24 +28,24 @@
 }
 
 .shop-item:hover{
-    font-size: 0.5rem;
+    font-size: 1rem;
     scale: 1.0rem;
 }
 
 .gift-item:hover{
-    font-size: 0.5rem;
+    font-size: 1rem;
     scale: 1.0rem;
 }
 .protein-item:hover{
-    font-size: 0.5rem;
+    font-size: 1rem;
     scale: 1.0rem;
 }
 .business-item:hover{
-    font-size: 0.5rem;
+    font-size: 1rem;
     scale: 1.0rem;
 }
 .brand-item:hover{
-    font-size: 0.5rem;
+    font-size: 1rem;
     scale: 1.0rem;
 }
 
