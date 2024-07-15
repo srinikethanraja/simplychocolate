@@ -235,6 +235,7 @@ h3{
     background-color: rgb(236, 234, 231);
 }
 .information-section div{
+    padding-bottom: 22px;
 }
 .information-section h2{
     font-size: 1.6em;
