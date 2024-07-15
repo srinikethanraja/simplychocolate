@@ -234,6 +234,9 @@ h3{
     display: block;
     background-color: rgb(236, 234, 231);
 }
+.information-section div{
+    padding-bottom: 20px;
+}
 .information-section h2{
     font-size: 1.6em;
     font-weight: 500;
