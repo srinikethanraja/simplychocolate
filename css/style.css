@@ -468,7 +468,7 @@ h3{
     top: 70%;
     text-align: center;
     margin-left: 12%;
-    color: rgba(158, 92, 27, 0.966);
+    color: hsla(173, 20%, 41%, 0.966);
 }
 
 .fourth-flex-absolute-content-box div{
